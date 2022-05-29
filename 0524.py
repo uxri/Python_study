@@ -1,12 +1,3 @@
-#for i in range(1,100,1):
-#    print("for문을 %d문 실행" %i)
-#    break
-
-
-#hap = 0
-#a,b=0,0
-
-
 #while True:
 #    a=int(input("더할 첫번째 수를 입력하세요"))
 #    if a==0:
