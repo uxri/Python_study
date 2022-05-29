@@ -1,0 +1,6 @@
+for i in range(1,100,1):
+print("for문을 %d문 실행" %i)
+break
+
+hap = 0
+a,b=0,0
