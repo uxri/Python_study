@@ -1,3 +1,5 @@
+#누적합이 1000이상이 되는 시점 알기
+
 hap,i = 0,0
 for i in range(1,101):
     hap = hap+i
